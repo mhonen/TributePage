@@ -1,5 +1,5 @@
 # TributePage
-<h1>My attempt to create my first html page with css.  This was a project to comp[lete in freeCodeCamp</h1>
+<h1>My attempt to create my first html page with css.  This was a project to complete in freeCodeCamp</h1>
 
 <h2>Basic HTML and CSS</h2>
 
